@@ -1,5 +1,5 @@
 # Contrato particular de prestação de serviço
-Contrato particular de prestação de serviços, que entre si fazem, de um lado, `Nome do Contratante`, situada à `Endereço Completo do Contratante` no CNPJ `CNPJ do Contratante`, neste ato representado por `Nome do Representante do Contratante`, doravante denominada CONTRATANTE e do outro lado `Seu Nome Completo`, residente à `Endereço Completo com CEP`, CPF Nº `XXX.XXX.XXX-XX`, doravante denominado CONTRATADO, nos termos que se seguem.
+Contrato particular de prestação de serviços, que entre si fazem, de um lado, `Nome do Contratante`, situada à `Endereço Completo do Contratante` no CNPJ `CNPJ do Contratante`, neste ato representado por `Nome do Representante do Contratante`, doravante denominada **CONTRATANTE** e do outro lado `Seu Nome Completo`, residente à `Endereço Completo com CEP`, CPF Nº `XXX.XXX.XXX-XX`, doravante denominado CONTRATADO, nos termos que se seguem.
 
 ## 1. OBJETIVO:
 Desenvolvimento e publicação de website completo com layout exclusivo.
@@ -16,13 +16,13 @@ Desenvolvimento e publicação de website completo com layout exclusivo.
 5.	O **CONTRATADO** terá completa e irrestrita liberdade para executar seu trabalho, não necessitando de predeterminar horários ou funções, ficando assim, caracterizado, que o mesmo exerce de maneira autônoma seus serviços, não mantendo nenhum vínculo trabalhista com o **CONTRATANTE**.
 6.  Aplicam-se ao relacionamento entre **CONTRATADO** e **CONTRATANTE**, além das normas dispostas pelo código civil, também as da lei nº 5.988/73 (lei do direito do autor), pelo que o crédito autoral sobre os trabalhos objeto deste contrato deve ser sempre indicado.
 7.  O **CONTRATADO** agirá atendendo sempre às normas éticas de sua categoria profissional, bem como manterá absoluto sigilo das informações que lhe forem passadas pela CONTRATANTE.
-10.	Após o TREINAMENTO, o **CONTRATADO** não terá nenhuma responsabilidade sob projeto e/ou quaisquer erros ocasionados por mau uso do CONTRATANTE e/ou terceiros.
+10.	Após o TREINAMENTO, o **CONTRATADO** não terá nenhuma responsabilidade sob projeto e/ou quaisquer erros ocasionados por mau uso do **CONTRATANTE** e/ou terceiros.
 
 ## 4. PRAZOS E SANÇÕES:
 1.	O desenvolvimento do projeto iniciará a partir da assinatura do contrato por ambas as partes, pagamento da entrada ou pagamento total e da entrega parcial do conteúdo e identidade visual da marca incluindo a logomarca por parte do CONTRATANTE;
 2.	O **CONTRATADO** não se responsabilizará por eventuais atrasos na entrega do serviço devido ao não recebimento do conteúdo ou material gráfico necessário para a conclusão do serviço.
-3.	Em caso de desistência pelo CONTRATANTE do serviço prestado pelo **CONTRATADO** não será feita devolução de nenhuma quantia paga anteriormente ao CONTRATADO.
-4.	Em caso de desistência pelo **CONTRATADO** do serviço prestado ao CONTRATANTE será feita a devolução de CEM PORCENTO do valor pago pelo CONTRATANTE.
+3.	Em caso de desistência pelo **CONTRATANTE** do serviço prestado pelo **CONTRATADO** não será feita devolução de nenhuma quantia paga anteriormente ao CONTRATADO.
+4.	Em caso de desistência pelo **CONTRATADO** do serviço prestado ao **CONTRATANTE** será feita a devolução de CEM PORCENTO do valor pago pelo CONTRATANTE.
 
 ## 5. CASOS OMISSOS
 Os casos omissos serão resolvidos de comum acordo, mediante reunião das partes para tal finalidade.
