@@ -22,11 +22,13 @@ Para que a prestação do serviço se dê de maneira ágil e eficiente, o **CONT
 
 ## CLAÚSULA 4ª: DAS OBRIGAÇÕES DO **CONTRATADO**
 Por sua vez, o **CONTRATADO** compromete-se a:
+
 1. Submeter à **CONTRATANTE**, para prévia aprovação escrita, todos os textos propostos, layouts, artes e quaisquer outros materiais de comunicação;
 2. Licenciar os direitos autorais incidentes sobre as obras preexistentes, que venham a serem incluídas na produção, tais como, porém não exclusivamente, trilhas, quadros, esculturas, e outros congêneres;
 
 ## CLAÚSULA 5ª: DA PROTEÇÃO DE DIREITOS INTELECTUAIS E DE PROPRIEDADE INDUSTRIAL
 O **CONTRATANTE** responsabiliza-se exclusivamente pelo material e pelas informações fornecidas para o desenvolvimento do serviço ora contratado, inclusive, quanto às proteções intelectuais ou industriais.
+
 Parágrafo Único. O **CONTRATANTE** assume o ônus por qualquer violação de propriedade intelectual ou industrial, assumindo o pólo passivo de qualquer procedimento judicial ou extrajudicial a que venha ser intentado por terceiros, arcando com todas as despesas daí decorrente.
 
 ## CLAÚSULA 6ª: DA EFICÁCIA
@@ -52,11 +54,13 @@ a) O pagamento do serviço, objeto deste contrato, será feito em `duas` parcela
 
 ## CLAÚSULA 9ª: DAS RESPONSABILIDADES E SUAS EXCLUDENTES
 O **CONTRATANTE** compromete-se a proteger, isentar e indenizar o **CONTRATADO**, bem como seus sócios, administradores, prepostos, funcionários e agentes, por quaisquer danos materiais ou morais sofridos por esta última, sem prejuízo de honorários advocatícios:
+
 1. Em decorrência do desenvolvimento do projeto;
 2. Em decorrência de reclamação, reivindicação ou intervenção de terceiros, de natureza judicial ou extrajudicial;
 3. Em decorrência de prejuízos a bens/serviços e suas respectivas marcas que eventualmente estiverem amparados por proteção legal relativa à propriedade intelectual, industrial, violação de imagem e de privacidade de pessoas, dados e/ou documentos relativos ao projeto.
 
 Parágrafo Único. O **CONTRATADO** ficará isenta de qualquer responsabilidade:
+
 1. Caso a demora na execução do serviço, decorrer de omissão de informação ou erro exclusivo causado pelo **CONTRATANTE**;
 2. Por prejuízos diretos, indiretos e expectativas de benefícios comerciais eventualmente não alcançados após a veiculação do projeto;
 3. Por projeto confiscado ou destruído por autoridade competente;
@@ -90,6 +94,7 @@ Entende-se por desistência do serviço, a renúncia ao pedido formalizado, ante
 
 ## CLAÚSULA 12ª: DAS CONDIÇÕES FINAIS
 No presente momento, as partes:
+
 1. Declaram e concordam que o pedido de desenvolvimento do projeto implica na concordância incondicional das cláusulas contidas no presente contrato, pois o mesmo reflete a vontade dos interessados;
 2. Declaram e concordam que qualquer alteração das condições aqui ajustadas será considerada como ato de mera tolerância e liberalidade, não acarretando e nem sendo considerada como novação ou alteração das mesmas;
 3. Declaram e concordam que, em regra, todas as comunicações entre as partes dar-se-ão por correio eletrônico e serão consideradas recebidas quando trocadas entre os endereços do **CONTRATADO** (`seu-email@example.com`) e do **CONTRATANTE** (`email-contratante@example.com`), as quais têm forças de prova digital;
